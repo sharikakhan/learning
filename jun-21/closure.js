@@ -1,4 +1,4 @@
-/*function newacess(a)
+function newacess(a)
 {
     let message="I am parent function";
     console.log(message);
@@ -10,7 +10,7 @@
     return childacess1;
 }
 const outacess=newacess('Hi');
-outacess(); */
+//outacess(); 
 // function createCounter() {
 //   let count = 0;
 
